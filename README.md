@@ -27,9 +27,11 @@ Simulated transactional data including:
 ---
 
 ## Tech Stack
-- SQL (PostgreSQL / SQLite compatible)
-- Git & GitHub
-
+- SQL
+- PostgreSQL / SQLite
+- Git
+- GitHub
+  
 ---
 
 ## Project Structure
@@ -96,5 +98,6 @@ Includes queries for:
 ---
 
 ## Author
-Vitor Carvalhal  
-Data Analyst | Fraud & Risk Analytics
+**Vitor Carvalhal**  
+Data Analyst focused on Fraud & Risk Analytics  
+[LinkedIn](https://linkedin.com/in/vitor-carvalhal) | [GitHub](https://github.com/DevCarvalhal)
