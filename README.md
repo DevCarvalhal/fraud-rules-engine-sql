@@ -5,6 +5,7 @@ This project simulates a fraud detection system built entirely in SQL, inspired 
 
 The goal is to identify suspicious transactions, assign risk scores, and prioritize cases for investigation.
 
+Tested and validated in PostgreSQL.
 ---
 
 ## Business Problem
